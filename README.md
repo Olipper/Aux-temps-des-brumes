@@ -8,6 +8,9 @@ Cours donné par Isaac Pante.
 
 Travail réalisé par Rose Marly et Olivier Oppliger.
 
+# Jouer au jeu
+Il vous suffit de simplement télécharger le fichier .html dans le dossier "Jeu", puis de le lancer sur votre navigateur.
+
 # Histoire (sans spoiler)
 Les joueur(euse)s.x sont placé dans perdue dans une ville de l'époque victorienne.
 
@@ -16,10 +19,6 @@ Celle-ci ne possède pas d'âme qui vive, donnant un sentiment de solitude à la
 Toute la ville possède des amas de déchets et est plongée sous un brouillard d'une épaisse pollution.
 
 Le but est de survivre aux horreurs physiques et psychologiques qui attendent les joueur(euse)s.x.
-
-Vous pouvez lancer le jeu directement en cliquant ci-dessous:
-
-[Ouvrir la page HTML](./Jeu/Aux%20temps%20des%20brumes.html)
 
 # Le concept
 Derrière cette fiction se pose l'idée de la psychologie d'une personne sous une condition de stress et de peur, ainsi que le questionnement sur la pollution environnante.
