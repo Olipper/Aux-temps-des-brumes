@@ -1,4 +1,4 @@
-# Aux-temps-des-brumes
+# Aux temps des brumes
 
 ![Main logo](./Images/Dr_Plague_in_city_fog.jpg)
 
@@ -36,6 +36,6 @@ Sur la peste:
 - https://www.who.int/fr/news-room/fact-sheets/detail/plague
 - https://jmvh.org/article/the-history-of-plague-part-1-the-three-great-pandemics/
 
-Les sons et musiques sont disponibles sur le site suivant:
+Les sons et musiques sont disponibles (gratuitement) sur le site suivant:
 
 https://pixabay.com/fr/
