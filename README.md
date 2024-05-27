@@ -1,4 +1,7 @@
 # Aux-temps-des-brumes
+
+![Main logo](./Images/Dr_Plague_in_city_fog.jpg)
+
 Fiction interactive dans le cadre de l'université de Lausanne.
 
 Cours donné par Isaac Pante.
