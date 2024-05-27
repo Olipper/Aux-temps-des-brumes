@@ -17,6 +17,10 @@ Toute la ville possède des amas de déchets et est plongée sous un brouillard 
 
 Le but est de survivre aux horreurs physiques et psychologiques qui attendent les joueur(euse)s.x.
 
+Vous pouvez lancer le jeu directement en cliquant ci-dessous:
+
+[Ouvrir la page HTML](./Jeu/Aux%20temps%20des%20brumes.html)
+
 # Le concept
 Derrière cette fiction se pose l'idée de la psychologie d'une personne sous une condition de stress et de peur, ainsi que le questionnement sur la pollution environnante.
 
@@ -34,6 +38,7 @@ Sur la psychologie:
 Sur la peste:
 
 - https://www.who.int/fr/news-room/fact-sheets/detail/plague
+
 - https://jmvh.org/article/the-history-of-plague-part-1-the-three-great-pandemics/
 
 Les sons et musiques sont disponibles sur le site suivant:
